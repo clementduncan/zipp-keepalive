@@ -81,7 +81,7 @@ python3 zipp_keepalive.py --nudge-on-battery
 python3 zipp_keepalive.py --quiet-hours 0-8
 python3 zipp_keepalive.py --cidr 192.168.1.0/24 # fix the subnet instead of auto-detecting
 ```
-Ctrl-C to stop.
+Press Ctrl-C to stop.
 
 ### Flags
 | flag | meaning |
